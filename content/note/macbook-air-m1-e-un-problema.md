@@ -1,5 +1,5 @@
 +++
-title = "Macbook Air M1 è un problema"
+title = "Macbook Air M1 è un (bel) problema"
 date = "2021-12-12"
 +++
 
