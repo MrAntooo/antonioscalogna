@@ -28,7 +28,8 @@ Il Mac è istantanemante funziona appena aperto... MAGIC!
 Tanto per cambiare, la batteria dura una vita anche sotto stress, ora con Monterey un po' di meno ma spero che il tutto venga fixato.
 
 Ecco perché M1 è un bel problema, qualsiasi computer confrontato con M1, anche un modello base, è insignificante e vi dirò di più, per quanto costa, il Macbook Air M1 è **economico**.
-Ed è un problema anche per la stessa Apple, perché tutte queste caratteristiche del MacBook Air M1 rendono gli iPad, nel mio caso, inutili, perché con questo computer riesco ad essere rapido come su iPad (per esempio per mostrare le cose al volo), anzi di più, perché iPad OS è scomodo per essere usato in maniera professionale (ovviamente non sto prendendo in considerazione il lato artistico con Apple Pencil, ma di più il lato informatico/gestionale).
+Ed è un problema anche per la stessa Apple, perché tutte queste caratteristiche del MacBook Air M1 rendono gli iPad, nel mio caso, inutili.\
+Con questo computer riesco ad essere rapido come su iPad (per esempio per mostrare le cose al volo), anzi di più, perché iPad OS è scomodo per essere usato in maniera professionale (ovviamente non sto prendendo in considerazione il lato artistico con Apple Pencil, ma di più il lato informatico/gestionale).
 
 ---
 
