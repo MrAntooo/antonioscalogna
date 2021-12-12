@@ -7,7 +7,7 @@ title = "Antonio Scalogna"
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
 Laureato e diplomato in informatica, esperienza in programmazione software, da sempre appassionato di tecnologia.\
-In passato mi sono occupato di video editing, assistenza hardware e software (senza retribuzione), stesura articoli per siti personali, compresa la gestione e realizzazione di questi, e per **instaNews**. 
+In passato mi sono occupato di video editing, assistenza hardware e software (senza retribuzione), stesura articoli per siti personali, compresa la gestione e realizzazione di questi, e per **instaNews**.\
 Ad oggi mi occupo di simulazione medica presso il **Centro SIMNOVA - Università del Piemonte Orientale**, curando la parte tecnica-informatica di eventi, corsi e lezioni universitarie.
 
 ## Contatti
