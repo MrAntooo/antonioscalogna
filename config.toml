@@ -42,5 +42,10 @@ math = false
     url = "/progetti"
     weight = 3
 
+  [[menu.main]]
+    name = "Note"
+    url = "/note"
+    weight = 4
+
 [markup.goldmark.renderer]
   unsafe = true 
