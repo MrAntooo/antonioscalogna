@@ -7,8 +7,8 @@ date = "2021-12-12"
 
 ![MacBook Air M1](https://images.unsplash.com/photo-1610888287136-0b83815059b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1167&q=80)
 
-Da Marzo ho cambiato pc, sono passato da un onesto Asus ZenBook alla rivoluzionario M1 di Apple con il Macbook Air.\
-Questo Mac ha semplicemente svoltato la mia concezione di portatile per diversi motivi.
+Da Marzo ho cambiato pc, sono passato da un onesto Asus ZenBook al rivoluzionario M1 di Apple con il Macbook Air.\
+Questo Mac ha semplicemente svoltato la mia concezione di portatile, per diversi motivi.
 
 ### Design 
 Abituato ad avere un portatile da 15" assolutamente moderno, ma ingombrante e pesante, con il Macbook Air ho trovato veramente la perfezione; prima di tutto è un 13", quindi piccolo in partenza, ma soprattutto è sottilissimo e non ingombra nello zaino.\
