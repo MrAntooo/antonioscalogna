@@ -15,7 +15,7 @@ Questa pagina contiene un elenco di tutti i progetti realizzati, in realizzazion
 ---
 * [Esperimento FOOT (**F**ragmentati**O**n **O**f **T**arget)](/Scalogna_Antonio_Tesi.pdf): progetto di tesi svolto grazie al **Prof. Luciano Ramello**. Studio e analisi dei dati ottenuti dal prototipo del calorimetro dell’esperimento FOOT, assemblato in laboratorio. Esperimento FOOT (FragmentatiOn Of Target) a cura dell’INFN, Istituto di Fisica
 Nucleare.\
-La tesi è stata riassunta e presentata all'[**IX Foot Collaboration Meeting**](Presentazione%20Collaboration%20Meeting.pdf).
+La tesi è stata riassunta e presentata all'[**IX Foot Collaboration Meeting**](/Presentazione_Collaboration_Meeting.pdf).
 
 ---
 * [Tech Stirrups](https://www.youtube.com/watch?v=kBlrPLhcwmQ): video promozionale destinato ai social network.
