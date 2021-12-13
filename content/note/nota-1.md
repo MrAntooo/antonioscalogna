@@ -18,7 +18,7 @@ Questa caratteristica, insieme a quella dell'M1, mi ha portato a rivalutare tota
 È fanless, addio stupide ventole che si avviano al minimo carico, soprattutto d'estate, non avere nessun ronzio di sottofondo è un toccasana per la concentrazione.
 
 ### Chip M1
-Ormani se n'è parlato di tutti i colori, anzi sono uscite due nuove versioni più performanti.\
+Ormai se n'è parlato di tutti i colori, anzi sono uscite due nuove versioni più performanti.\
 Vi dico la verità, anche dopo mesi di utilizzo continuo come **unico computer** sia personale che per lavoro, sembra magia.\
 Ammetto che avevo paura delle app non supportate a causa della nuova tecnologia, assolutamente non fondata perché alla fine Rosetta 2 è perfetto.\
 M1 mi permette di fare qualsiasi cosa con una velocità e una fluidità assurda anche senza pensare di dover spegnere il Mac (e non è poco).
