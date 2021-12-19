@@ -7,11 +7,13 @@ title = "Progetti"
 Questa pagina contiene un elenco di tutti i progetti realizzati, in realizzazione, a cui ho partecipato e a cui sto partecipando.
 
 ---
+### Personali
+
 * [Preso Bene Podcast](https://open.spotify.com/show/3QUPN9AlJcv0PH3DKlZeKb): podcast molto personale che uso come valvola di sfogo, è una sorta di diario personale.
 ---
 * **Tech In Sim**: *Coming Soon*
 ---
-### Progetti di ricerca
+### Ricerca
 
 * [REACtion](https://www.agingproject.uniupo.it/reaction/) : *Coming Soon*
 * [App per la gestione della ipoglicemia](): *Coming Soon*
@@ -20,6 +22,7 @@ Nucleare.\
 La tesi è stata riassunta e presentata all'[**IX Foot Collaboration Meeting**](/Presentazione_Collaboration_Meeting.pdf).
 
 ---
+### Video / Videoclip
 * [Tech Stirrups](https://www.youtube.com/watch?v=kBlrPLhcwmQ): video promozionale destinato ai social network.
 ---
 * [Fabio Miani - Gli occhi di Diabolik](https://www.youtube.com/watch?v=23B9sjpd7ZY): secondo assistente di regia e video editor.
