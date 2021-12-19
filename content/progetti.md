@@ -11,7 +11,8 @@ Questa pagina contiene un elenco di tutti i progetti realizzati, in realizzazion
 ---
 * **Tech In Sim**: *Coming Soon*
 ---
-## Progetti di ricerca
+### Progetti di ricerca
+
 * [REACtion](https://www.agingproject.uniupo.it/reaction/) : *Coming Soon*
 * [App per la gestione della ipoglicemia](): *Coming Soon*
 * [Esperimento FOOT (**F**ragmentati**O**n **O**f **T**arget)](/Scalogna_Antonio_Tesi.pdf): progetto di tesi svolto grazie al **Prof. Luciano Ramello**. Studio e analisi dei dati ottenuti dal prototipo del calorimetro dell’esperimento FOOT, assemblato in laboratorio. Esperimento FOOT (FragmentatiOn Of Target) a cura dell’INFN, Istituto di Fisica
