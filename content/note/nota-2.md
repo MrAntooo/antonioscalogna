@@ -15,7 +15,7 @@ Ogni anno per me le feste sono un periodo di semi-malinconia, ora, non è che mi
 
 I giorni che precedono Natale sono proprio tutt'altra cosa, non c'è paragone.
 
-Ma tornando all'argomento principale, di questo 2021 non è che ci abbia capito molto, ad esser sincero, o meglio... Nel complesso non è andato niente storto, anzi, tutto il contrario, e questo mi mette un'ansia incredibile perché il mio cervello pensa *da qualche parte dovrà bilanciare* .\
+Ma tornando all'argomento principale, di questo 2021 non è che ci abbia capito molto, ad esser sincero, o meglio... Nel complesso non è andato niente storto, anzi, tutto il contrario, e questo mi mette un'ansia incredibile perché il mio cervello pensa *da qualche parte dovrà bilanciare* .
 
 Parlando con un amico, poco tempo fa, ci siamo detti quanto sia importante, per la vita di un essere umano, avere un lavoro, non tanto per guadagnare (questo vien da se, chi più, chi meno, chi in nero), ma per il **sentirsi utile** nella società. Partendo dal fatto che al giorno d'oggi, avere un lavoro può considerarsi già di per se una fortuna enorme, ma averlo e svolgerlo con piacere non è cosa da poco, e persone con questa combo ne conosco "poche" . E a conclusione di quest'anno mi ci metto in mezzo anche io... 
 
