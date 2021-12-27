@@ -28,5 +28,5 @@ Per quanto possa farmi un minimo di paura, perché è comunque un cambiamento en
 
 Sinceramente sono pensieri che non ho mai avuto prima però, nel complesso, credo di avere delle idee abbastanza chiare.
 
-Il 2022 per quanto mi riguarda basta che equagli quest'anno, poi in generale non mi aspetto nulla di che.\
+Il 2022 per quanto mi riguarda basta che eguagli l'anno uscente, poi in generale non mi aspetto nulla di che.\
 Spero che cambi qualcosa con questo COVID-19, ma siamo sinceri, le prospettive al momento non sono buonissime.
