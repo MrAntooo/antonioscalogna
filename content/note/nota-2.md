@@ -29,4 +29,5 @@ Per quanto possa farmi un minimo di paura, perché è comunque un cambiamento en
 Sinceramente sono pensieri che non ho mai avuto prima però, nel complesso, credo di avere delle idee abbastanza chiare.
 
 Il 2022 per quanto mi riguarda basta che eguagli l'anno uscente, poi in generale non mi aspetto nulla di che.\
+Ho diversi progetti in cantiere, lavorativi e non, a cui sto lavorando praticamente e mentalmente, spero di avviarne e conclduerne qualcuno.
 Spero che cambi qualcosa con questo COVID-19, ma siamo sinceri, le prospettive al momento non sono buonissime.
