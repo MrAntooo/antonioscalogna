@@ -9,7 +9,7 @@ In realtà il primo film l’ho visto di sfuggita in TV quando ero piccolino ma 
 
 Vendendo la saga da adulto e non avendo mai letto i libri (ho iniziato a farlo) da una parte mi sono perso veramente tanti dettagli  dall’altra ho apprezzato la saga sia per il mondo fantastico ma soprattuto per cosa trasmetta questa saga da diversi anni.
 
-Ciò che amo di Harry Potter è quel “tutto il resto” che spesso e volentieri viene dimenticato. Quello che è stato fatto con questi film è quanto di più semplice ma sensazionale: **portare una saga già di per se famosa al cinema ma sviluppando questa saga con la crescita degli interpreti stessi**, e per me questa rimane e rimarrà pura follia, e sinceramente è solo questo che mi fa rivedere Harry Poter più volte all’anno. 
+Ciò che amo di Harry Potter è quel “tutto il resto” che spesso e volentieri viene dimenticato. Quello che è stato fatto con questi film è quanto di più semplice ma sensazionale: **portare una saga già di per se famosa al cinema ma sviluppandola con la crescita degli interpreti stessi**, e per me questa rimane e rimarrà pura follia, e sinceramente è solo questo che mi fa rivedere Harry Poter più volte all’anno. 
 
 A prescindere dalla Reunion che ho ovviamente visto poco fa, ignorando bellamente la classica partita a carte (che puntualmente perdo), è papabile la passione che c’è dietro ogni regista che ha diretto il film. Tanto che i film sono totalmente diversi tra loro ma non scollegati, anzi, direi che crescono esponenzialmente di maturità (alla faccia di chi dice che HP è per bambini).
 
