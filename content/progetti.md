@@ -8,9 +8,9 @@ Questa pagina contiene un elenco di tutti i progetti realizzati, in realizzazion
 
 ---
 ### Personali
-
+* [antonioscalogna.it](https://antonioscalogna.it/): questo sito è, probabilmente, il progetto più semplice.
+L'idea iniziale era una integrazione base del mio CV, col tempo sta diventando un posto estraneo ai social dove posso pubblicare liberamente, senza troppi pensieri, trattando diversi argomenti... Per farla breve, tutto ciò che mi passa per la testa.
 * [Preso Bene Podcast](https://open.spotify.com/show/3QUPN9AlJcv0PH3DKlZeKb): podcast molto personale che uso come valvola di sfogo, è una sorta di diario personale.
----
 * **Tech In Sim**: *Coming Soon*
 ---
 ### Ricerca
