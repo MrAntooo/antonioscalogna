@@ -2,7 +2,8 @@
 title = "Disclaimer"
 +++
 # Disclaimer 
-Perché è necessario.
+
+*Perché è necessario*.
 
 *antonioscalogna.it* **non è un sito professionale**, non contiene pubblicità, non raccoglie nessun dato, neanche le visite al sito, zero proprio.\
 Questo per renderlo il più leggero possibile, alla vista e alla navigazione.

@@ -13,6 +13,7 @@ math = false
   [params.footer]
     text = "Sito di Antonio Scalogna"
     url = "https://antonioscalogna.it"
+    disclaimer = "/disclaimer"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "750px"
