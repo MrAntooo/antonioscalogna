@@ -23,4 +23,4 @@ Ovvio, si sbaglia e si cambia, ma c'est la vie, se no che divertimento c'è!
 
 Finito di scrivere un'altra nota, torno a guardare Mary Poppins... Sempre accompagnato dalla conseuta tisana.
 
-![Scheramata di RaiPlay](https://res.cloudinary.com/presobene/image/upload/v1641247477/Schermata_2022-01-03_alle_23.02.41_qhoc4t.png)
+![Schermata di RaiPlay](https://res.cloudinary.com/presobene/image/upload/v1641247477/Schermata_2022-01-03_alle_23.02.41_qhoc4t.png)
