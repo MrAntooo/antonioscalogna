@@ -1,0 +1,20 @@
++++
+title = "NFT, avere proprietà online"
+date = "2022-01-08"
++++
+
+# NFT, avere una proprietà online
+
+Lungi da me parlarei blockchain, criptovalute e cose del genere, non mi sono mai informato più di tanto, però recentemente ho sentito parlare di NFT:
+ovvero **Non-Fungible Token**, tipo speciale di *token crittografico* che rappresenta l'atto di proprietà e il **certificato di autenticità** scritto su Blockchain di **un bene unico (digitale o fisico)**. [...]\
+*Wikipedia è vostro amica, così come Google*
+
+![Certificato del primo Commit di questo sito](https://res.cloudinary.com/presobene/image/upload/v1641649318/NFT_Sito_tiva57.png)
+
+[OpenSea](https://opensea.io/) permette la creazione di questi certificati per la maggior parte dei media (immagini, video, ecc...) oppure, come ho fatto, tramite [GitNFT](https://gitnft.quine.sh/) è possibile certificare un commit fatto su GitHub.
+
+[![GitNFT](https://img.shields.io/badge/%F0%9F%94%AE-Open%20in%20GitNFT-darkviolet?style=for-the-badge)](https://gitnft.quine.sh/app/commits/list/repo/antonioscalogna)
+
+Nel mio caso ho certificato l'[Initial Commit di questo sito](https://opensea.io/assets/matic/0xe7ea2e2be12c257d376400cb231d8ee51e972bd6/4123033782849975103425092891691360264885912020196245151303624158997408192878)... Ora, non sarà utile a nessuno, ma sinceramente è veramente figo avere una proprietà di una cosa online, qualcosa di non tangibile diventa così concreta, per la serie "lasciare una traccia in questo marasma che si chiama **Internet**".   
+
+Quindi sì, il sito è ufficialmente mio, non perché c'è il mio nome, ma perché il primo commit è certificato a mio nome (o almeno credo funzioni così).
