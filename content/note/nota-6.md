@@ -1,5 +1,5 @@
 +++
-title = "NFT, avere proprietà online"
+title = "NFT, avere una proprietà online"
 date = "2022-01-08"
 +++
 
