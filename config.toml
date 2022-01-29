@@ -7,7 +7,7 @@ math = false
 
 [params]
   author = "Antonio Scalogna"
-  description = "Il mio sito personale"
+  description = "Sono le scelte che facciamo che dimostrano quel che siamo veramente, molto più delle nostre capacità."
   favicon = "favicon.ico"  
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
