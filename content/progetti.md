@@ -13,8 +13,11 @@ L'idea iniziale era una integrazione base del mio CV, col tempo sta diventando u
 * [Preso Bene Podcast](https://open.spotify.com/show/3QUPN9AlJcv0PH3DKlZeKb): podcast molto personale che uso come valvola di sfogo, è una sorta di diario personale.
 * [Tech In Sim](techinsim.it): Seguendo l'onda di Preso Bene ho deciso di aprire un diario, al momento una pagina Instagram, in cui pubblico le mie attività quotidiane e le scoperte di questo ambiente lavorativo in continua evoluzione.
 ---
-### Ricerca
 
+### Collaborazioni 
+* [SIMZINE](https://simzine.it/it/) : Stesura di articoli prettamente tecnici riguardo strumentazione utilizzata in simulazione medica.
+
+### Ricerca
 * [REACtion](https://www.agingproject.uniupo.it/reaction/) : Sviluppo Serious Game in ambito Infermieristico e Operatore Socio Sanitario.
 * [App per la gestione della ipoglicemia](): *Coming Soon*
 * [BeEmTel](https://beemtel.eu): Progetto di ricerca di Erasmus+, coinvolto nel gruppo di disseminazione. 
