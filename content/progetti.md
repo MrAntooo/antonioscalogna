@@ -15,7 +15,7 @@ L'idea iniziale era una integrazione base del mio CV, col tempo sta diventando u
 ---
 
 ### Collaborazioni 
-* [SIMZINE](https://simzine.it/it/) : Stesura di articoli prettamente tecnici riguardo strumentazione utilizzata in simulazione medica.
+* [SIMZINE](https://simzine.it/it/): Stesura di articoli prettamente tecnici riguardo strumentazione utilizzata in simulazione medica.
 
 ### Ricerca
 * [REACtion](https://www.agingproject.uniupo.it/reaction/) : Sviluppo Serious Game in ambito Infermieristico e Operatore Socio Sanitario.
