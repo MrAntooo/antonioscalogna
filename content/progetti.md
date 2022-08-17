@@ -18,6 +18,7 @@ L'idea iniziale era una integrazione base del mio CV, col tempo sta diventando u
 * [SIMZINE](https://simzine.it/it/): Stesura di articoli prettamente tecnici riguardo strumentazione utilizzata in simulazione medica.
 
 ### Ricerca
+* [Acta Diabetologica](https://trebuchet.public.springernature.app/get_content/7e9f7569-57fb-421f-bb09-06bb03b28b6d): Not only for caregivers: intranasal glucagon for severe hypoglycaemia in a simulation study.
 * [REACtion](https://www.agingproject.uniupo.it/reaction/) : Sviluppo Serious Game in ambito Infermieristico e Operatore Socio Sanitario.
 * [App per la gestione della ipoglicemia](): *Coming Soon*
 * [BeEmTel](https://beemtel.eu): Progetto di ricerca di Erasmus+, coinvolto nel gruppo di disseminazione. 
